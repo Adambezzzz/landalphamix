@@ -186,9 +186,10 @@ header {
     padding: 2rem;
 
     .flex {
-        width: 60%;
+        width: 80%;
         margin: auto;
         display: flex;
+        gap: 0.5rem;
 
         .img {
             width: 50%;
@@ -291,10 +292,9 @@ header {
                 width: 100%;
                 padding: 1rem;
                 margin-top: 2rem;
-                background-color: #BF9A54;
-                color: #333;
+                background-color: #aa0000;
+                color: #f0f0f0;
                 border: none;
-                border-radius: 0.2rem;
                 transition: 1s;
             }
 
@@ -306,7 +306,7 @@ header {
 
         .local {
             margin: 0 2rem;
-            background-color: #BF9A54;
+            background-color: #aa0000;
             padding: 0 0 0.5rem ;
         }
 
