@@ -317,7 +317,7 @@ header {
 
 /*FOOTER */
 footer {
-    background-color: black;
+    background-color: #aa0000;
     padding: 2rem;
     text-align: center;
 
@@ -325,7 +325,7 @@ footer {
         width: 70%;
         text-align: center;
         margin: auto;
-        color: #F2E49B;
+        color: #f0f0f0;
     }
 
     .cont {
@@ -335,7 +335,7 @@ footer {
 
         p {
             font-size: 16px;
-            color: #333;
+            color: #f0f0f0;
             padding: 2rem;
         }
 
@@ -354,7 +354,7 @@ footer {
                 list-style: none;
 
                 a {
-                    color: #F2E49B;
+                    color: #f0f0f0;
                 }
 
             }
